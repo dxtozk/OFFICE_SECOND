@@ -1,6 +1,4 @@
 this a new file
-<<<<<<< HEAD
 this is the second line for master
-=======
-this is the second line for master
->>>>>>> feature1
+
+
